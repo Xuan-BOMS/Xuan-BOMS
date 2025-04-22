@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+
+![:Xuan](https://count.getloli.com/@Xuan?name=Xuan&theme=rule34&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto)
 <!--
 **Xuan-BOMS/Xuan-BOMS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
